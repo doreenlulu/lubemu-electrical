@@ -16,13 +16,6 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <>
-    <Header />
-    <Us />
-    {/* <About />
-    <Services /> */}
-    <Contact />
-    <Footer />
-
     <Router>
       <Nav />
         <Routes>
@@ -33,6 +26,13 @@ function App() {
           <Route path="/blog" element={<Blog/>}/>
         </Routes>
     </Router>
+
+       <Header />
+    <Us />
+    {/* <About />
+    <Services /> */}
+    <Contact />
+    <Footer />
     </>
   );
 }

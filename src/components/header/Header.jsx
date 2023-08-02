@@ -1,9 +1,17 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
+// import './Header.css'
+
 
 function Header() {
   return (
-    <div>Lubemu Electrical</div>
-  )
+        <div className='header-background'>
+      
+      <h1>LULU SOFTWARE SOLUTIONS</h1>
+      <p>Electrical solutions just by one click</p>
+
+    </div>
+  );
 }
 
 export default Header
