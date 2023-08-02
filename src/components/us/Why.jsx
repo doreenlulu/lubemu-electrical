@@ -2,7 +2,7 @@ import React from 'react'
 
 function Why() {
   return (
-    <div>Why</div>
+    <div>Why us?</div>
   )
 }
 
