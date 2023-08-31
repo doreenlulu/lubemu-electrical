@@ -7,7 +7,7 @@ function Header() {
   return (
         <div className='header-background'>
       
-      <h1>LULU SOFTWARE SOLUTIONS</h1>
+      <h1>Lubemu Electrical LTD</h1>
       <p>Electrical solutions just by one click</p>
 
     </div>

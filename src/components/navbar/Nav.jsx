@@ -15,6 +15,7 @@ function Nav() {
       <Link to ='/services' className='nav-links' >Services</Link>
       <Link to ='/faq' className='nav-links' >FAQ</Link>
       <Link to ='/blog' className='nav-links' >Blog</Link>
+      <Link to ='/contact' className='nav-links' >Contact</Link>
       </div>
     </nav>
     </>
