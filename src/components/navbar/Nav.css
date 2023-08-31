@@ -1,4 +1,21 @@
+.navbar {
+    display: flex;
+    margin-left: 0.5rem;
+}
+
+.navbar-container {
+    display: flex;
+    
+}
+
 .navbar-logo {
-    width: 20%;
-    height: auto;
+    width: 125px;
+
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    padding: 0.5rem 3rem;
+    height: 100%;
 }
